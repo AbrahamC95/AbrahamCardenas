@@ -1,24 +1,23 @@
 header {
 	width: 100vw;
 	height: 60px;
-	display:inline-block;
+	display:inline;
 }
-h2 {	display:inline-block;
+h2 {	display:inline;
 	margin-left: 100px;	
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
 	}
-span {	display:inline-block;
+span {	display:inline;
 	margin-left: 50px;
 	font-family: 'Raleway', sans-serif;
 }
 
-p4{	display:inline-block;
+p4{	display:inline;
 	margin-left: 200px;
 	font-family: 'Raleway', sans-serif;
 }
 nav {	
 	width: 100vw;
 	height: 60px;
-	background-color: #000000;
 }
