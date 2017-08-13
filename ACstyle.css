@@ -3,7 +3,7 @@ header {
 	height: 60px;
 	display:inline;
 }
-h2 {
+h2 {	display:inline;
 	margin-left: 100px;	
 	font-family: 'Raleway', sans-serif;
 	font-size: 50px;
