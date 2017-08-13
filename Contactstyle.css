@@ -1,0 +1,28 @@
+header {
+	width: 100vw;
+	height: 60px;
+	display:inline;
+}
+h2 {	display:inline;
+	margin-left: 100px;	
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	}
+span {	display:inline;
+	margin-left: 50px;
+	font-family: 'Raleway', sans-serif;
+}
+
+p4{	display:inline;
+	margin-left: 200px;
+	font-family: 'Raleway', sans-serif;
+	
+}
+nav {	
+	width: 100vw;
+	height: 20px;
+}
+style {
+	color: #D3D3D3;
+	display:inline;
+}
