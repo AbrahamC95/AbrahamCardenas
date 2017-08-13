@@ -16,13 +16,10 @@ span {	display:inline;
 p4{	display:inline;
 	margin-left: 200px;
 	font-family: 'Raleway', sans-serif;
+	color:#D3D3D3;
 	
 }
 nav {	
 	width: 100vw;
 	height: 20px;
-}
-style {
-	color: #D3D3D3;
-	display:inline;
 }
