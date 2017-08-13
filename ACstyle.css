@@ -21,3 +21,8 @@ p4{
 	margin-left: 430px;
 	font-family: 'Raleway', sans-serif;
 }
+nav {
+	width: 100vw;
+	height: 60px;
+	background-color: #000000;
+}
