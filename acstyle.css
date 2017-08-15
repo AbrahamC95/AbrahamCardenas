@@ -23,3 +23,15 @@ nav {
 	width: 100vw;
 	height: 20px;
 }
+a:link {
+	color: black;
+}
+a:hover {
+	color: #C8102E;
+}
+a:visited {
+	color:black;
+}
+a:active {
+	color:black;
+}
