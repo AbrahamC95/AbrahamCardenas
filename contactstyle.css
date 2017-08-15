@@ -26,3 +26,19 @@ style {
 	color: #D3D3D3;
 	display:inline;
 }
+a:link {
+	color: black;
+	text-decoration: none;
+}
+a:hover {
+	color: #C8102E;
+	text-decoration: none;
+}
+a:visited {
+	color:black;
+	text-decoration: none;
+}
+a:active {
+	color:black;
+	text-decoration: none;
+}
