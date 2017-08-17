@@ -2,20 +2,27 @@ header {
 	width: 100vw;
 	height: 60px;
 	display:inline;
+	-webkit-text-size-adjust: 100%;
 }
 h2 {	display:inline;
-	margin-left: 100px;	
+	margin-left: 6%;	
 	font-family: 'Raleway', sans-serif;
-	font-size: 50px;
+	font-size: 300%;
+	-webkit-text-size-adjust: 100%;
 	}
 span {	display:inline;
-	margin-left: 50px;
+	margin-left: 5%;
 	font-family: 'Raleway', sans-serif;
+	font-size: 110%;
+	-webkit-text-size-adjust: 100%;
 }
 
 p4{	display:inline;
-	margin-left: 350px;
+	margin-left: 25%;
 	font-family: 'Raleway', sans-serif;
+	color:#D3D3D3;
+	font-size: 110%;
+	-webkit-text-size-adjust: 100%;
 	
 }
 nav {	
@@ -47,4 +54,5 @@ div {
 	font-size: 110%;
 	font-family: 'Raleway', sans-serif;
 	font-weight: bold;
+	-webkit-text-size-adjust: 100%;
 }
