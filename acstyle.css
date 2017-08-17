@@ -24,7 +24,7 @@ nav {
 	height: 20px;
 }
 a:link {
-	color: black;
+	color: #C8102E;
 	text-decoration: none;
 }
 a:hover {
@@ -32,11 +32,11 @@ a:hover {
 	text-decoration: none;
 }
 a:visited {
-	color:black;
+	color:#C8102E;
 	text-decoration: none;
 }
 a:active {
-	color:black;
+	color:#C8102E;
 	text-decoration: none;
 }
 div {
