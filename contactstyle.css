@@ -27,7 +27,8 @@ p4{	display:inline;
 }
 nav {	
 	width: 100vw;
-	height: 20px;
+	height: 35%;
+	-webkit-text-size-adjust: 100%;
 }
 style {
 	color: #D3D3D3;
