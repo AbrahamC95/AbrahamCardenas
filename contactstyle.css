@@ -42,3 +42,8 @@ a:active {
 	color:#C8102E;
 	text-decoration: none;
 }
+div {
+	text-align: center;
+	font-size: 110%;
+	font-family: 'Raleway', sans-serif;
+}
