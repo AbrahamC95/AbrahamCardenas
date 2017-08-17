@@ -12,12 +12,13 @@ h2 {	display:inline;
 	}
 span {	display:inline;
 	margin-left: 10%;
+	margin-left: 50px;
 	font-family: 'Raleway', sans-serif;
 	-webkit-text-size-adjust: 100%;
 }
 
 p4{	display:inline;
-	margin-left: 65%;
+	margin-left: 350px;
 	font-family: 'Raleway', sans-serif;
 	color:#D3D3D3;
 	-webkit-text-size-adjust: 100%;
