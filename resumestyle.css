@@ -49,3 +49,9 @@ a:active {
 	color:#C8102E;
 	text-decoration: none;
 }
+img {
+	max-width: 75%;
+    	height: auto;
+	align: center;
+	-webkit-text-size-adjust: 100%;
+}
