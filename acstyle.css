@@ -69,3 +69,8 @@ h {
 	
 	
 }
+div.class {
+  	width: 150px;
+    	height: 150px;
+    	overflow: scroll;
+}
