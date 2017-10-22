@@ -3,7 +3,6 @@ header {
 	height: 60px;
 	display:inline;
 	-webkit-text-size-adjust: 100%;
-	position: fixed;
 }
 h2 {	display:inline;
 	margin-left: 6%;	
